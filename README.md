@@ -1,2 +1,2 @@
 # JavaSwingPaint
-Basic paint written using Java Swing
+Basic Paint written using Java Swing
